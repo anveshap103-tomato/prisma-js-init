@@ -1,0 +1,20 @@
+{
+  "name": "prisma-js-init",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prisma",
+    "postgresql",
+    "commonjs",
+    "cli"
+  ],
+  "author": "Anvesha",
+  "license": "ISC",
+  "description": "CLI to set up Prisma 7 with PostgreSQL and CommonJS",
+  "bin" : {
+    "prisma-js-init" : "./index.js"
+  }
+}
