@@ -12,7 +12,7 @@
     "cli"
   ],
   "author": "Anvesha",
-  "license": "ISC",
+  "license": "",
   "description": "CLI to set up Prisma 7 with PostgreSQL and CommonJS",
   "bin" : {
     "prisma-js-init" : "./index.js"
